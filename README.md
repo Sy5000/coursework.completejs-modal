@@ -1,6 +1,6 @@
 # modal window
 
-excercise in javascript fundimentals
+exercise in javascript fundimentals
 
 ## Installation
 
